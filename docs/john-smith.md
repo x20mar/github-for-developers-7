@@ -1,7 +1,8 @@
 ## Intro
 
 **Name :** John Smith
-**Location :** Gallifrey
+**Birth Place :** Gallifrey
 **Favourite Food :** Fish fingers and custard
 **Hobby :** Running
 **Favourite Colour :** Purple
+**Current City :** London
